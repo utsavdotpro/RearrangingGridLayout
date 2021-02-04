@@ -1,3 +1,4 @@
+[![](https://jitpack.io/v/u-barnwal/RearrangingGridLayout.svg)](https://jitpack.io/#u-barnwal/RearrangingGridLayout)
 # RearrangingGridLayout
 
 A GridLayout based on AndroidX GridLayout that rearranges itself on child change.
