@@ -1,0 +1,3 @@
+include ':RearrangingGridLayout'
+include ':app'
+rootProject.name = "RearrangingGridLayoutLibrary"
