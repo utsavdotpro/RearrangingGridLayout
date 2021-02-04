@@ -19,6 +19,7 @@ A GridLayout based on AndroidX GridLayout that rearranges itself on child change
 **Step 2:** Add to app level build.gradle
 
 	dependencies {
+        implementation 'androidx.gridlayout:gridlayout:1.0.0' // GridLayout
 	    implementation 'com.github.u-barnwal:RearrangingGridLayout:VERSION'
 	}
 ## How to use
